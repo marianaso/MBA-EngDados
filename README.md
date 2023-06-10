@@ -11,4 +11,5 @@ Em termos cronológico de aprendizado, a parte II deveria ter sido dada antes da
 
 **Parte II: Engenharia de Dados**
 
-- Modulo EngD
+- Modulo 2 - Linguagem Python aplicada a Engenharia de Dados
+- Modulo 4 - Pipeline de Dados
