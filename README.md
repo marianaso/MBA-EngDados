@@ -13,3 +13,4 @@ Em termos cronológico de aprendizado, a parte II deveria ter sido dada antes da
 
 - Modulo 2 - Linguagem Python aplicada a Engenharia de Dados
 - Modulo 4 - Pipeline de Dados
+- Desafio Final
