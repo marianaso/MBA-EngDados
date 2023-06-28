@@ -13,5 +13,6 @@ export AIRFLOW_HOME=~/DesafioFinal/
 airflow standalone
 ```
 
-Pasta dags: contém as dags para o pipeline.
-Pasta dados: contém os arquivos csv com os DataFrames resultantes da extração dos dados do MongoDB e da API do IBGE. Para facilitar os dados já foram tratados assim que extraídos.
+- Pasta dags: contém as dags para o pipeline.
+
+- Pasta dados: contém os arquivos csv com os DataFrames resultantes da extração dos dados do MongoDB e da API do IBGE. Para facilitar os dados já foram tratados assim que extraídos.
