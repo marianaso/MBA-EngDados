@@ -7,7 +7,9 @@ Para instalação e execução do airflow:
 ```sh
 python -m venv venv
 source venv/bin/activate
+
 pip install "apache-airflow[postgres,celery,redis]==2.6.0" --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.6.0/constraints-3.10.txt"
+
 export AIRFLOW_HOME=~/DesafioFinal/
 
 airflow standalone
